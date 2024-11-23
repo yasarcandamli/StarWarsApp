@@ -2,6 +2,8 @@
 
 A React-based web application that provides detailed information about Star Wars starships. The app fetches data from the **Star Wars API (SWAPI)** and allows users to search, view, and explore details about starships.
 
+You can visit the live site fom [this link.](https://deft-elf-81fba5.netlify.app/)
+
 ## Features ✨
 
 - **Search Functionality:** Filter starships by name or model.

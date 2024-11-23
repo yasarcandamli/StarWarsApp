@@ -1,4 +1,4 @@
-# Starship Explorer 🚀
+# Star Wars App 🚀
 
 A React-based web application that provides detailed information about Star Wars starships. The app fetches data from the **Star Wars API (SWAPI)** and allows users to search, view, and explore details about starships.
 
